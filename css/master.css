@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+}
+
+.avatar-img{
+    width: 15%;
+}
+
+.linea{
+    height: 2px;
+    background-color: white;
+    width: 10%;
+}
+
+.linea-b{
+    height: 2px;
+    background-color: black;
+    width: 10%;
+}
+
+.img-col{
+    width: 100%;
+}
