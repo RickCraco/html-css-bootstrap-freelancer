@@ -25,3 +25,7 @@ ul{
 .download-button{
     display: inline-block;
 }
+
+.h-100{
+    height: 100%;
+}
